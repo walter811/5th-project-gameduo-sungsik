@@ -155,5 +155,5 @@ nest에 내장된 Swagger로 명세서 제작(예정)
 - [x] 보스레이드 시작
 - [x] 보스레이드 종료
 - [x] 랭킹 조회
-  - [] Swagger 
-  - [] unit test
+  - [ ] Swagger 
+  - [ ] unit test
